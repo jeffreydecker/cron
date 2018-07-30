@@ -1,5 +1,6 @@
-# cron [![](https://api.travis-ci.org/zslayton/cron.png?branch=master)](https://travis-ci.org/zslayton/cron) [![](http://meritbadge.herokuapp.com/cron)](https://crates.io/crates/cron)
+# cron [![](https://api.travis-ci.org/zslayton/cron.png?branch=master)](https://travis-ci.org/zslayton/cron) 
 ## A Cron Expression Parser in Rust
+Forked from [zslayton/cron](https://github.com/zslayton/cron) to allow for use with rust stable ;)
 
 ```rust
 extern crate cron;
